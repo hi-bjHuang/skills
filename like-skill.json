@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {
+      "name": "impeccable",
+      "source": "pbakaus/impeccable",
+      "skill": "impeccable",
+      "skillsShUrl": "https://skills.sh/pbakaus/impeccable/impeccable",
+      "install": "npx skills add pbakaus/impeccable@impeccable"
+    },
+    {
+      "name": "antfu/vue",
+      "source": "antfu/skills",
+      "skill": "vue",
+      "skillsShUrl": "https://skills.sh/antfu/skills/vue",
+      "install": "npx skills add antfu/skills@vue"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "skill": "ui-ux-pro-max",
+      "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
+      "install": "npx skills add nextlevelbuilder/ui-ux-pro-max-skill@ui-ux-pro-max"
+    },
+    {
+      "name": "typescript-advanced-types",
+      "source": "wshobson/agents",
+      "skill": "typescript-advanced-types",
+      "skillsShUrl": "https://skills.sh/wshobson/agents/typescript-advanced-types",
+      "install": "npx skills add wshobson/agents@typescript-advanced-types"
+    }
+  ]
+}
